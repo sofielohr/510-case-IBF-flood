@@ -1,0 +1,1461 @@
+,name,placeCode,glofasStation
+0,Abako,UG30670101,no_station
+1,Abanga,UG31000101,no_station
+2,Abarilela,UG20270101,G5196
+3,Aber,UG30960101,no_station
+4,Abia,UG30670102,no_station
+5,Abim,UG30640101,G5196
+6,Abim Town Council,UG30640102,G5196
+7,Abindu Division,UG30910101,no_station
+8,Abok,UG30960102,no_station
+9,Aboke,UG30790101,no_station
+10,Abongomola,UG30810101,no_station
+11,Abuku,UG30780101,no_station
+12,Acaba,UG30960103,no_station
+13,Acholibur,UG30970101,no_station
+14,Acowa,UG20460101,G5196
+15,Adeknino,UG30730101,no_station
+16,Adekokwok,UG30830101,no_station
+17,Adilang,UG30660101,no_station
+18,Adjumani Town Council,UG30650101,no_station
+19,Adok,UG30730102,no_station
+20,Adropi,UG30650102,no_station
+21,Aduku,UG30810102,no_station
+22,Aduku Town Council,UG30810103,no_station
+23,Adumi,UG30720201,no_station
+24,Adwari,UG30950101,no_station
+25,Adyel Division,UG30830201,no_station
+26,Agago Town Council,UG30660102,no_station
+27,Agali,UG30830102,no_station
+28,Agikdak,UG30680101,no_station
+29,Agoro,UG30820101,no_station
+30,Agule,UG20590201,G5075
+31,Agulu Division,UG30710101,no_station
+32,Agwata,UG30730103,no_station
+33,Agweng,UG30830103,no_station
+34,Agwingiri,UG30680102,no_station
+35,Aii-Vu,UG30720301,no_station
+36,Ajia,UG30720401,no_station
+37,Akaa,UG31000102,no_station
+38,Akalo,UG30790102,no_station
+39,Akere Division,UG30710102,no_station
+40,Akeriau,UG20270102,G5196
+41,Akisim,UG20590202,G5075
+42,Akokoro,UG30710201,no_station
+43,Akoromit,UG20460102,G5196
+44,Akura,UG30670103,no_station
+45,Akwon,UG30680103,no_station
+46,Akworo,UG30910201,no_station
+47,Alangi,UG31000103,no_station
+48,Alango,UG30950102,no_station
+49,Alebtong Town Council,UG30670104,no_station
+50,Aleka,UG30960104,no_station
+51,Alerek,UG30640103,G5196
+52,Alero,UG30920101,no_station
+53,Alito,UG30790103,no_station
+54,Aloi,UG30670105,no_station
+55,Alwa,UG20410101,no_station
+56,Alwi,UG30980101,no_station
+57,Amach,UG30830104,no_station
+58,Amolatar Town Council,UG30680104,no_station
+59,Amudat,UG30690101,no_station
+60,Amudat Town Council,UG30690102,no_station
+61,Amugu,UG30670106,no_station
+62,Amukol,UG20450201,no_station
+63,Amuria Town Council,UG20270103,G5196
+64,Amuru,UG30700101,no_station
+65,Amuru Town Council,UG30700102,no_station
+66,Amwoma,UG30730104,no_station
+67,Anaka Payira,UG30920102,no_station
+68,Anaka Town Council,UG30920103,no_station
+69,Angagura,UG30970102,no_station
+70,Apac,UG30710202,no_station
+71,Apala,UG30670107,no_station
+72,Apeduru,UG20270104,G5196
+73,Aperkira,UG20410102,no_station
+74,Apo,UG30990101,no_station
+75,Apopong,UG20590203,G5075
+76,Aputi,UG30680105,no_station
+77,Arapai,UG20620101,no_station
+78,Arinyapi,UG30650103,no_station
+79,Arivu,UG30720402,no_station
+80,Ariwa,UG30990102,no_station
+81,Arocha Division,UG30710103,no_station
+82,Aroi,UG30720202,no_station
+83,Aromo,UG30830105,no_station
+84,Arua Hill Division,UG30720101,no_station
+85,Arum,UG30660103,no_station
+86,Arwotcek,UG30680106,no_station
+87,Asamuk,UG20270105,G5196
+88,Asuret,UG20620102,no_station
+89,Atanga,UG30970103,no_station
+90,Atego,UG30910202,no_station
+91,Athuma,UG31000104,no_station
+92,Atiira,UG20600201,no_station
+93,Atik Division,UG30710104,no_station
+94,Attiak,UG30700103,no_station
+95,Atutur,UG20490101,no_station
+96,Atyak,UG31000105,no_station
+97,Awach,UG30640104,G5196
+98,Awach,UG30740101,no_station
+99,Awei,UG30670108,no_station
+100,Awelo,UG30680107,no_station
+101,Awere,UG30970104,no_station
+102,Ayer,UG30790104,no_station
+103,Ayivuni,UG30720203,no_station
+104,Bagezza,UG10200201,no_station
+105,Baitambogwe,UG20530101,no_station
+106,Bala,UG30790105,no_station
+107,Balawoli,UG20440101,no_station
+108,Bamunanika,UG10140101,no_station
+109,Bananywa,UG10120110,G5160
+110,Banda,UG10120111,G5160
+111,Banda,UG20550101,G5230
+112,Bar Dege Division,UG30740201,no_station
+113,Barr,UG30830106,no_station
+114,Batta,UG30730105,no_station
+115,Bbaale,UG10100101,no_station
+116,Bbanda,UG10180101,G5160
+117,Benet,UG20500101,no_station
+118,Bigasa,UG10020101,no_station
+119,Biguli,UG41130101,no_station
+120,Bihanga,UG41010101,no_station
+121,Bihanga,UG41130102,no_station
+122,Biharwe Division,UG41260101,no_station
+123,Biiso,UG41020101,no_station
+124,Bileafe,UG30720302,no_station
+125,Binyiny,UG20500102,no_station
+126,Binyiny Town Council,UG20500103,no_station
+127,Birembo,UG41120101,no_station
+128,Birere,UG41080201,no_station
+129,Bisheshe Division,UG41070201,no_station
+130,Bitereko,UG41270101,no_station
+131,Bitooma,UG41050201,no_station
+132,Bitsya,UG41010102,no_station
+133,Bobi,UG30940101,no_station
+134,Bombo Town Council,UG10140201,no_station
+135,Bubaare,UG41260102,no_station
+136,Bubaare,UG41300101,no_station
+137,Bubandi,UG41030201,no_station
+138,Bubango,UG41170101,no_station
+139,Bubeke,UG10060201,no_station
+140,Bubiita,UG20290101,G5220
+141,Bubukwanga,UG41030202,no_station
+142,Bubutu,UG20560101,G5220
+143,Bubyangu,UG20540101,G5220
+144,Budadiri Town Council,UG20610101,no_station
+145,Budaka,UG20280101,G5220
+146,Budaka Town Council,UG20280102,G5220
+147,Budde,UG10030101,no_station
+148,Budhaya,UG20300201,G5075
+149,Budomero,UG20430101,G5075
+150,Budondo,UG20400301,no_station
+151,Budongo,UG41250101,no_station
+152,Bududa,UG20290102,G5220
+153,Bududa Town Council,UG20290103,G5220
+154,Budumba,UG20360101,G5220
+155,Budwale,UG20540102,G5220
+156,Bufumbo,UG20540103,G5220
+157,Bufumira,UG10060202,no_station
+158,Bufunda Division,UG41070202,no_station
+159,Bufundi,UG41300102,no_station
+160,Bufunjo,UG41240101,G5189
+161,Bugaaki,UG41240102,G5189
+162,Bugambe,UG41180101,G5227
+163,Bugangari,UG41330101,G5317
+164,Buganikire Town Councili,UG41030203,no_station
+165,Bugaya,UG10040101,no_station
+166,Bugaya,UG20380101,G5075
+167,Bugembe Town Council,UG20400101,no_station
+168,Buginyanya,UG20340101,no_station
+169,Bugitimwa,UG20610102,no_station
+170,Bugobero,UG20520101,G5220
+171,Bugondo,UG20600101,no_station
+172,Bugongi Town Council,UG41350101,no_station
+173,Bugoye,UG41150201,no_station
+174,Bugulumbya,UG20440201,no_station
+175,Bugweri Town Council,UG20310101,no_station
+176,Buhanika,UG41060101,no_station
+177,Buhara,UG41090201,no_station
+178,Buheesi,UG41040101,no_station
+179,Buheesi Town Council,UG41040102,no_station
+180,Buhehe,UG20350201,G5230
+181,Buhemba,UG20550102,G5230
+182,Buhimba,UG41180102,G5227
+183,Buhimba Town Council,UG41180103,G5227
+184,Buhugu,UG20610103,no_station
+185,Buhuhira,UG41150202,no_station
+186,Buhunga,UG41330102,G5317
+187,Buikwe,UG10010101,no_station
+188,Buikwe Town Council,UG10010102,no_station
+189,Bujumba,UG10060101,no_station
+190,Bujumbura Division,UG41060201,no_station
+191,Bukabooli,UG20530102,no_station
+192,Bukakata,UG10170101,no_station
+193,Bukalasi,UG20290104,G5220
+194,Bukamba,UG20430102,G5075
+195,Bukana,UG20550103,G5230
+196,Bukanga,UG20510101,no_station
+197,Bukasakya,UG20540104,G5220
+198,Bukatube,UG20530103,no_station
+199,Bukedea,UG20320101,no_station
+200,Bukedea Town Council,UG20320102,no_station
+201,Bukhabusi,UG20560102,G5220
+202,Bukhalu,UG20340102,no_station
+203,Bukhaweka,UG20560103,G5220
+204,Bukhofu,UG20520102,G5220
+205,Bukhulo,UG20610104,no_station
+206,Bukiabi,UG20560104,G5220
+207,Bukibokolo,UG20290105,G5220
+208,Bukiende,UG20540105,G5220
+209,Bukigai,UG20290106,G5220
+210,Bukiise,UG20610105,no_station
+211,Bukimbiri,UG41210101,no_station
+212,Bukinda,UG41320101,no_station
+213,Bukiro,UG41260103,no_station
+214,Bukiyi,UG20610106,no_station
+215,Bukokho,UG20560105,G5220
+216,Bukomansimbi  Town Council,UG10020102,no_station
+217,Bukomero,UG10110101,G5160
+218,Bukomero Town Council,UG10110102,G5160
+219,Bukonde,UG20540106,G5220
+220,Bukonzo,UG41030101,no_station
+221,Bukooma,UG20510102,no_station
+222,Bukulula,UG10070101,no_station
+223,Bukurungu Town Council,UG41330103,G5317
+224,Bukusu,UG20520103,G5220
+225,Bukuuku,UG41100101,no_station
+226,Bukuya,UG10090101,no_station
+227,Bukwo,UG20330101,no_station
+228,Bukwo Town Council,UG20330102,no_station
+229,Bukyabo,UG20610107,no_station
+230,Bukyambi,UG20610108,no_station
+231,Bulaago,UG20340103,no_station
+232,Bulambuli Town Council,UG20340104,no_station
+233,Bulamogi,UG20390201,no_station
+234,Bulange,UG20570101,G5075
+235,Bulangira,UG20480101,G5075
+236,Bulegeni,UG20340105,no_station
+237,Bulegeni Town Council,UG20340106,no_station
+238,Bulembia Division,UG41150301,no_station
+239,Bulera,UG10180301,G5160
+240,Bulesa,UG20300202,G5075
+241,Bulidha,UG20300203,G5075
+242,Buliisa,UG41020102,no_station
+243,Buliisa Town Council,UG41020103,no_station
+244,Bulo,UG10030102,no_station
+245,Bulongo,UG20510103,no_station
+246,Bulopa,UG20440102,no_station
+247,Bulucheke,UG20290107,G5220
+248,Buluganya,UG20340107,no_station
+249,Buluguyi,UG20300204,G5075
+250,Bulumbi,UG20350202,G5230
+251,Bumalimba,UG20610109,no_station
+252,Bumanya,UG20430103,G5075
+253,Bumasheti,UG20290108,G5220
+254,Bumasifwa,UG20610110,no_station
+255,Bumasikye,UG20540107,G5220
+256,Bumasobo,UG20340108,no_station
+257,Bumayoka,UG20290109,G5220
+258,Bumbaire,UG41050202,no_station
+259,Bumbo,UG20560106,G5220
+260,Bumbobi,UG20540108,G5220
+261,Bumugibole,UG20340109,no_station
+262,Bumwoni,UG20560107,G5220
+263,Bunabwana,UG20520104,G5220
+264,Bunambutye,UG20340110,no_station
+265,Bunamwaya Division,UG10260501,G5160
+266,Bundibugyo Town Council,UG41030204,no_station
+267,Bundingoma,UG41030205,no_station
+268,Bungatira,UG30740102,no_station
+269,Bungokho,UG20540109,G5220
+270,Bungokho Mutoto,UG20540110,G5220
+271,Bunyafa,UG20610111,no_station
+272,Bunyinza Town Council,UG20520105,G5220
+273,Bupoto,UG20560108,G5220
+274,Burere,UG41010103,no_station
+275,Burondo,UG41030102,no_station
+276,Burora,UG41110101,G5227
+277,Busaana,UG10100201,no_station
+278,Busaba,UG20360102,G5220
+279,Busabi,UG20360103,G5220
+280,Busakira,UG20530104,no_station
+281,Busamuzi,UG10040102,no_station
+282,Busano,UG20540111,G5220
+283,Busanza,UG41210102,no_station
+284,Busaru,UG41030206,no_station
+285,Busedde,UG20400102,no_station
+286,Busembatia Town Council,UG20310102,no_station
+287,Buseruka,UG41060102,no_station
+288,Buseta,UG20480102,G5075
+289,Bushika,UG20290110,G5220
+290,Bushiribo,UG20290111,G5220
+291,Bushiyi,UG20290112,G5220
+292,Busiisi Division,UG41060202,no_station
+293,Busimbi Division,UG10180401,G5160
+294,Busime,UG20350203,G5230
+295,Busiriba,UG41130103,no_station
+296,Busitema,UG20350204,G5230
+297,Busiu,UG20540112,G5220
+298,Busiu Town Council,UG20540113,G5220
+299,Busoba,UG20540114,G5220
+300,Busolwe,UG20360104,G5220
+301,Busolwe Town Council,UG20360105,G5220
+302,Busoro,UG41100102,no_station
+303,Bussi,UG10260101,G5160
+304,Busukuma Division,UG10260601,G5160
+305,Busukuya,UG20520106,G5220
+306,Busulani,UG20610112,no_station
+307,Busunga Twon Council,UG41030207,no_station
+308,Busunju Town Council,UG10180302,G5160
+309,Buswale,UG20550104,G5230
+310,Butagaya,UG20400302,no_station
+311,Butalangu Town Council,UG10220101,G5160
+312,Butaleja,UG20360106,G5220
+313,Butaleja Town Council,UG20360107,G5220
+314,Butama-Mitunda Town Council,UG41030103,no_station
+315,Butanda,UG41090202,no_station
+316,Butandiga,UG20610113,no_station
+317,Butansi,UG20440103,no_station
+318,Butayunja,UG10180102,G5160
+319,Buteba,UG20350205,G5230
+320,Butebo,UG20370101,no_station
+321,Butebo Town Council,UG20370102,no_station
+322,Butemba,UG10120112,G5160
+323,Butemba Town Council,UG10120113,G5160
+324,Butenga,UG10020103,no_station
+325,Buteza,UG20610114,no_station
+326,Butiaba,UG41020104,no_station
+327,Butiiti,UG41240103,G5189
+328,Butiru,UG20520107,G5220
+329,Butogota Town Council,UG41140101,G5317
+330,Butoloogo,UG10200101,no_station
+331,Butta,UG20520108,G5220
+332,Butunduzi,UG41240104,G5189
+333,Butunduzi Town Council,UG41240105,G5189
+334,Butungama,UG41280101,G5189
+335,Butuntumula,UG10140202,no_station
+336,Buvuma Town Council,UG10040103,no_station
+337,Buwaaya,UG20530105,no_station
+338,Buwabwala,UG20560109,G5220
+339,Buwagogo,UG20520109,G5220
+340,Buwalasi,UG20610115,no_station
+341,Buwali,UG20290113,G5220
+342,Buwama,UG10190101,no_station
+343,Buwangani Town Council,UG20520110,G5220
+344,Buwasa,UG20610116,no_station
+345,Buwenge,UG20400303,no_station
+346,Buwenge Town Council,UG20400304,no_station
+347,Buwooya,UG10040104,no_station
+348,Buwunga,UG10170102,no_station
+349,Buwunga,UG20300205,G5075
+350,Buyaga Town Council,UG20340111,no_station
+351,Buyanga,UG20310103,no_station
+352,Buyanga,UG20350206,G5230
+353,Buyanja,UG41330201,G5317
+354,Buyanja Town Council,UG41330202,G5317
+355,Buyende,UG20380102,G5075
+356,Buyende Town Council,UG20380103,G5075
+357,Buyengo,UG20400305,no_station
+358,Buyinda,UG20430104,G5075
+359,Buyinja,UG20550105,G5230
+360,Buyobo,UG20610117,no_station
+361,Bwambara,UG41330104,G5317
+362,Bwamiramira,UG41170102,no_station
+363,Bwanswa,UG41120102,no_station
+364,Bweema,UG10040105,no_station
+365,Bwera,UG41150101,no_station
+366,Bweramule,UG41280102,G5189
+367,Bwesumbu,UG41150203,no_station
+368,Bweyale Town Council,UG41200101,no_station
+369,Bweyogerere Division,UG10260301,G5160
+370,Bwijanga,UG41250102,no_station
+371,Bwikara,UG41110102,G5227
+372,Bwikhonge,UG20340112,no_station
+373,Bwizi,UG41130104,no_station
+374,Bwongyera,UG41290101,no_station
+375,Byakabanda,UG10240101,no_station
+376,Byerima,UG10120114,G5160
+377,Central,UG41210201,no_station
+378,Central Division,UG10010201,no_station
+379,Central Division,UG10080101,no_station
+380,Central Division,UG10180201,G5160
+381,Central Division,UG10210101,no_station
+382,Central Division,UG20390101,no_station
+383,Central Division,UG20400201,no_station
+384,Central Division,UG20450101,no_station
+385,Central Division,UG30770201,no_station
+386,Central Division,UG30800201,G5196
+387,Central Division,UG30830202,no_station
+388,Central Division,UG30910102,no_station
+389,Central Division,UG41090101,no_station
+390,Central Division,UG41150302,no_station
+391,Central Division,UG41250301,no_station
+392,Central Division,UG41290201,no_station
+393,Central Divison,UG41050101,no_station
+394,Chahi,UG41210103,no_station
+395,Chawente,UG30810104,no_station
+396,Chegere,UG30710203,no_station
+397,Chelekura,UG20590204,G5075
+398,Chema,UG20450202,no_station
+399,Chepkwasta,UG20330103,no_station
+400,Chepterech,UG20450203,no_station
+401,Chesower,UG20330104,no_station
+402,Ciforo,UG30650104,no_station
+403,Dabani,UG20350207,G5230
+404,Dadamu,UG30720204,no_station
+405,Ddwaniro,UG10110103,G5160
+406,Ddwaniro,UG10240102,no_station
+407,Difule,UG30870101,no_station
+408,Division A,UG10260201,G5160
+409,Division B,UG10260202,G5160
+410,Dokolo,UG30730106,no_station
+411,Dokolo Tc,UG30730107,no_station
+412,Drajini,UG30990103,no_station
+413,Dranya,UG30780102,no_station
+414,Dzaipi,UG30650105,no_station
+415,Eastern Division,UG10200301,no_station
+416,Eastern Division,UG20300101,G5075
+417,Eastern Division,UG20350101,G5230
+418,Eastern Division,UG20450102,no_station
+419,Eastern Division,UG20620201,no_station
+420,Eastern Division,UG20630201,G5075
+421,Eastern Division,UG41100201,no_station
+422,Eastern Division,UG41290202,no_station
+423,Eastern Divison,UG41330301,G5317
+424,Endiinzi,UG41080101,no_station
+425,Endiinzi Town Council,UG41080102,no_station
+426,Engaju,UG41010104,no_station
+427,Erussi,UG30910203,no_station
+428,Etam,UG30680108,no_station
+429,Gadumire,UG20430105,G5075
+430,Galiraya,UG10100102,no_station
+431,Gamogo,UG20450204,no_station
+432,Gayaza,UG10120115,G5160
+433,Gogonyo,UG20590205,G5075
+434,Goli Goli,UG20480103,G5075
+435,Goma Division,UG10210301,no_station
+436,Gombe Division,UG10260602,G5160
+437,Gombe Town Council,UG10030103,no_station
+438,Got Apwoyo,UG30920104,no_station
+439,Gweri,UG20620103,no_station
+440,Hakibaale,UG41100103,no_station
+441,Hamurwa,UG41300103,no_station
+442,Hamurwa Town Council,UG41300104,no_station
+443,Hapuuyo,UG41230101,no_station
+444,Harugale,UG41030104,no_station
+445,Harugogo,UG41100104,no_station
+446,Hima Town Council,UG41150204,no_station
+447,Himutu,UG20360108,G5220
+448,Ibaare,UG41050203,no_station
+449,Ibuje,UG30710204,no_station
+450,Ibulanku,UG20310104,no_station
+451,Iceme,UG30960105,no_station
+452,Igombe,UG20310105,no_station
+453,Igorora Town Council,UG41070101,no_station
+454,Ihandiro,UG41150102,no_station
+455,Ihunga,UG41290102,no_station
+456,Iki-Iki,UG20280201,G5220
+457,Ikumba,UG41300105,no_station
+458,Ikumbya,UG20510104,no_station
+459,Imanyiro,UG20530106,no_station
+460,Industrial Divison,UG20540201,G5220
+461,Inomo,UG30810105,no_station
+462,Iriiri,UG30900101,G5196
+463,Irongo,UG20510105,no_station
+464,Isango,UG41150103,no_station
+465,Ishaka Divison,UG41050102,no_station
+466,Ishongororo,UG41070102,no_station
+467,Ishongororo Town Council,UG41070103,no_station
+468,Isingiro Town Council,UG41080202,no_station
+469,Itirikwa,UG30650106,no_station
+470,Itojo,UG41290301,no_station
+471,Ivukula,UG20570102,G5075
+472,Iwemba,UG20300206,G5075
+473,Iyolwa,UG20630301,G5075
+474,Jaguzi,UG20530107,no_station
+475,Jangokoro,UG31000106,no_station
+476,Kaabong East,UG30750101,no_station
+477,Kaabong Town Council,UG30750102,no_station
+478,Kaabong West,UG30750103,no_station
+479,Kaato,UG20520111,G5220
+480,Kabamba,UG41110103,G5227
+481,Kabambiro,UG41130105,no_station
+482,Kabasekende,UG41170103,no_station
+483,Kabei,UG20330105,no_station
+484,Kaberamaido,UG20410103,no_station
+485,Kaberamaido Town Council,UG20410104,no_station
+486,Kaberebere Town Council,UG41080203,no_station
+487,Kabeywa,UG20450205,no_station
+488,Kabingo,UG41080204,no_station
+489,Kabira,UG41270102,no_station
+490,Kabonera,UG10170103,no_station
+491,Kabonero,UG41040103,no_station
+492,Kabulasoke,UG10050101,no_station
+493,Kabuyanda,UG41080205,no_station
+494,Kabuyanda Town Council,UG41080206,no_station
+495,Kabwangasi,UG20370103,no_station
+496,Kabweri,UG20480104,G5075
+497,Kabweza Kyegegwa,UG41230102,no_station
+498,Kabwohe Division,UG41350201,no_station
+499,Kabwoya,UG41180104,G5227
+500,Kacheera,UG10240103,no_station
+501,Kacheri,UG30800101,G5196
+502,Kachomo,UG20280202,G5220
+503,Kachonga,UG20360109,G5220
+504,Kachumbala,UG20320103,no_station
+505,Kadama,UG20480105,G5075
+506,Kaderuna,UG20280103,G5220
+507,Kadungulu,UG20600102,no_station
+508,Kadungulu Town Council,UG20600103,no_station
+509,Kafunjo-Mirama Town Council,UG41290302,no_station
+510,Kagadi,UG41110104,G5227
+511,Kagadi  Town Council,UG41110105,G5227
+512,Kagamba,UG10240104,no_station
+513,Kagango Division,UG41070203,no_station
+514,Kagango Division,UG41350202,no_station
+515,Kagarama Town Council,UG41290103,no_station
+516,Kagongi,UG41260104,no_station
+517,Kagugu,UG41030105,no_station
+518,Kagulu,UG20380104,G5075
+519,Kagumba,UG20440104,no_station
+520,Kagumu,UG20480106,G5075
+521,Kaharo,UG41090203,no_station
+522,Kahoora Divison,UG41060203,no_station
+523,Kahunge,UG41130106,no_station
+524,Kahunge Town Council,UG41130107,no_station
+525,Kajjansi Town Council,UG10260102,G5160
+526,Kakabara,UG41230103,no_station
+527,Kakamar,UG30750104,no_station
+528,Kakamba,UG41080103,no_station
+529,Kakanju,UG41050204,no_station
+530,Kakiika Division,UG41260105,no_station
+531,Kakindo,UG41120103,no_station
+532,Kakindo Town Council,UG41350102,no_station
+533,Kakindu,UG10180103,G5160
+534,Kakira Town Council,UG20400103,no_station
+535,Kakiri,UG10260103,G5160
+536,Kakiri Town Council,UG10260104,G5160
+537,Kakoba Division,UG41260201,no_station
+538,Kakomongole,UG30890101,no_station
+539,Kakooge,UG10230101,no_station
+540,Kakooge Town Council,UG10230102,no_station
+541,Kakoro,UG20370104,no_station
+542,Kakule,UG20280104,G5220
+543,Kakumiro  Town Council,UG41120104,no_station
+544,Kakutu,UG20480107,G5075
+545,Kalagala,UG10140102,no_station
+546,Kalamba,UG10030104,no_station
+547,Kalangaalo,UG10180303,G5160
+548,Kalangala Town Council,UG10060102,no_station
+549,Kalapata,UG30750105,no_station
+550,Kaliiro,UG10160101,no_station
+551,Kaliro Town Council,UG20430106,G5075
+552,Kalongo,UG10230103,no_station
+553,Kalongo Town Council,UG30660104,no_station
+554,Kalungi,UG10230104,no_station
+555,Kalungu,UG10070102,no_station
+556,Kalungu Town Council,UG10070103,no_station
+557,Kalwana,UG10090102,no_station
+558,Kambuga,UG41140102,G5317
+559,Kambuga Town Council,UG41140103,G5317
+560,Kamdini,UG30960106,no_station
+561,Kameke,UG20590206,G5075
+562,Kameruka,UG20280203,G5220
+563,Kamet,UG20330106,no_station
+564,Kamion,UG30750106,no_station
+565,Kamira,UG10140103,no_station
+566,Kammengo,UG10190102,no_station
+567,Kamonkoli,UG20280204,G5220
+568,Kamu,UG20340113,no_station
+569,Kamuda,UG20620104,no_station
+570,Kamuganguzi,UG41090204,no_station
+571,Kamuge,UG20590207,G5075
+572,Kamukuzi Division,UG41260202,no_station
+573,Kamwenge,UG41130108,no_station
+574,Kamwenge Town Council,UG41130109,no_station
+575,Kamwezi,UG41320102,no_station
+576,Kanaba,UG41210104,no_station
+577,Kanara,UG41280103,G5189
+578,Kanara Town Council,UG41280104,G5189
+579,Kangai,UG30730108,no_station
+580,Kanginima,UG20370105,no_station
+581,Kango,UG31000107,no_station
+582,Kangulumira,UG10100202,no_station
+583,Kanoni Town Council,UG10050102,no_station
+584,Kanungu Town Council,UG41140104,G5317
+585,Kanyabwanga,UG41270103,no_station
+586,Kanyantorogo,UG41140105,G5317
+587,Kanyaryeru,UG41190101,no_station
+588,Kanyegaramire,UG41240106,G5189
+589,Kanyum,UG20490102,no_station
+590,Kapeeka,UG10220102,G5160
+591,Kapeke,UG10110104,G5160
+592,Kapelebyong,UG20460103,G5196
+593,Kapelebyong Town Council,UG20460104,G5196
+594,Kapir,UG20580101,no_station
+595,Kaproron,UG20500104,no_station
+596,Kaproron Town Council,UG20500105,no_station
+597,Kapsinda,UG20450206,no_station
+598,Kaptanya,UG20450207,no_station
+599,Kaptererwo,UG20330107,no_station
+600,Kaptoyoy,UG20500106,no_station
+601,Kaptum,UG20500107,no_station
+602,Kapujan,UG20470201,G5196
+603,Kapyanga,UG20300207,G5075
+604,Karago Town Council,UG41100105,no_station
+605,Karama,UG41170104,no_station
+606,Karambi,UG41100106,no_station
+607,Karambi,UG41150104,no_station
+608,Karangura,UG41100107,no_station
+609,Karita,UG30690103,no_station
+610,Karugutu,UG41280105,G5189
+611,Karugutu Town Council,UG41280106,G5189
+612,Karujubu Division,UG41250302,no_station
+613,Karungu,UG41010105,no_station
+614,Karusandara,UG41150205,no_station
+615,Kasaana,UG41350103,no_station
+616,Kasagama,UG10160102,no_station
+617,Kasambya,UG10200202,no_station
+618,Kasambya,UG41120105,no_station
+619,Kasambya Town Council,UG10200203,no_station
+620,Kasangati Town Council,UG10260401,G5160
+621,Kasangombe,UG10220103,G5160
+622,Kasanje,UG10260105,G5160
+623,Kasasira,UG20480108,G5075
+624,Kasawo,UG10210401,no_station
+625,Kasenda,UG41100108,no_station
+626,Kaserem,UG20450208,no_station
+627,Kashambya,UG41320103,no_station
+628,Kashare,UG41260106,no_station
+629,Kashenshero,UG41270104,no_station
+630,Kashenshero Town Council,UG41270105,no_station
+631,Kashongi,UG41190102,no_station
+632,Kashozi Division,UG41350203,no_station
+633,Kashumba,UG41080104,no_station
+634,Kasilo Town Council,UG20600104,no_station
+635,Kasimbi,UG41170105,no_station
+636,Kasitu,UG41030106,no_station
+637,Kasodo,UG20590208,G5075
+638,Kasokwe,UG20430107,G5075
+639,Kassanda,UG10090103,no_station
+640,Kassanda Town Council,UG10090104,no_station
+641,Kasule,UG41230104,no_station
+642,Katabi  Town Council,UG10260106,G5160
+643,Katakwi,UG20470101,G5196
+644,Katakwi Town Council,UG20470102,G5196
+645,Katanda,UG41310101,no_station
+646,Katebwa,UG41040104,no_station
+647,Katenga,UG41270106,no_station
+648,Katerera,UG41310102,no_station
+649,Katerera Town Council,UG41310103,no_station
+650,Kateta,UG20600202,no_station
+651,Katete,UG41140106,G5317
+652,Kathile,UG30750107,no_station
+653,Kathile South,UG30750108,no_station
+654,Katiira,UG20280205,G5220
+655,Katikamu,UG10140203,no_station
+656,Katikara,UG41120106,no_station
+657,Katikekile,UG30860101,no_station
+658,Katine,UG20620105,no_station
+659,Katooke,UG41240107,G5189
+660,Katooke Town Council,UG41240108,G5189
+661,Katrini,UG30720303,no_station
+662,Katuna Town Council,UG41090205,no_station
+663,Katunguru,UG41310104,no_station
+664,Katwe-Butego Division,UG10170201,no_station
+665,Katwe Kabatoro Town Council,UG41150206,no_station
+666,Kawempe Division,UG10080102,no_station
+667,Kawolo Division,UG10010301,no_station
+668,Kawowo,UG20450209,no_station
+669,Kayonza,UG10100103,no_station
+670,Kayonza,UG41140107,G5317
+671,Kayonza,UG41290401,no_station
+672,Kayunga,UG10100203,no_station
+673,Kayunga Town Council,UG10100204,no_station
+674,Kebisoni,UG41330203,G5317
+675,Kebisoni Town Council,UG41330204,G5317
+676,Kei,UG30990104,no_station
+677,Keihangara,UG41070104,no_station
+678,Kenshunga,UG41190103,no_station
+679,Kerwa,UG30990105,no_station
+680,Khabutoola,UG20520112,G5220
+681,Kibaale,UG20570103,G5075
+682,Kibaale Town Council,UG41170106,no_station
+683,Kibale,UG20590101,G5075
+684,Kibalinga,UG10200204,no_station
+685,Kibanda,UG10240105,no_station
+686,Kibatsi,UG41290104,no_station
+687,Kibibi,UG10030105,no_station
+688,Kibiga,UG10110105,G5160
+689,Kibiito,UG41040105,no_station
+690,Kibiito Town Council,UG41040106,no_station
+691,Kibinge,UG10020104,no_station
+692,Kiboga Town Council,UG10110106,G5160
+693,Kibuku,UG20480109,G5075
+694,Kibuku Town Council,UG20480110,G5075
+695,Kibuuku Town Council,UG41280107,G5189
+696,Kichwamba,UG41310105,no_station
+697,Kicuzi,UG41070105,no_station
+698,Kicwamba,UG41100109,no_station
+699,Kidera,UG20380105,G5075
+700,Kidetok Town Council,UG20600105,no_station
+701,Kidongole,UG20320104,no_station
+702,Kifamba,UG10240106,no_station
+703,Kigambo,UG41230105,no_station
+704,Kiganda,UG10090105,no_station
+705,Kigandalo,UG20530108,no_station
+706,Kigando,UG10200205,no_station
+707,Kigaraale,UG41240109,G5189
+708,Kigarama,UG41350104,no_station
+709,Kigorobya,UG41060103,no_station
+710,Kigorobya Town Council,UG41060104,no_station
+711,Kigulya Division,UG41250303,no_station
+712,Kigumba,UG41200102,no_station
+713,Kigumba Town Council,UG41200103,no_station
+714,Kigwera,UG41020105,no_station
+715,Kihihi,UG41140108,G5317
+716,Kihiihi Town Council,UG41140109,G5317
+717,Kihungya,UG41020106,no_station
+718,Kihuura,UG41240110,G5189
+719,Kijangi,UG41120107,no_station
+720,Kijomoro,UG30850101,no_station
+721,Kijongo,UG41070106,no_station
+722,Kijura Town Council,UG41100110,no_station
+723,Kikaatsi,UG41190104,no_station
+724,Kikagate,UG41080207,no_station
+725,Kikamulo,UG10220104,G5160
+726,Kikandwa,UG10180304,G5160
+727,Kiko Town Council,UG41100111,no_station
+728,Kikuube Town Council,UG41180105,G5227
+729,Kikwaya,UG41120108,no_station
+730,Kikyenkye,UG41070107,no_station
+731,Kikyusa,UG10140104,no_station
+732,Kilembe,UG41150207,no_station
+733,Kimaanya-Kyabakuza Division,UG10170202,no_station
+734,Kimengo,UG41250201,no_station
+735,Kimenyedde,UG10210402,no_station
+736,Kinaaba,UG41140110,G5317
+737,Kinoni,UG10220105,G5160
+738,Kinoni,UG41190105,no_station
+739,Kinuuka,UG10160103,no_station
+740,Kinyamasrke Town Council,UG41150105,no_station
+741,Kinyogoga,UG10220106,G5160
+742,Kira Division,UG10260302,G5160
+743,Kirewa,UG20630302,G5075
+744,Kirika,UG20480111,G5075
+745,Kiriki,UG20500108,no_station
+746,Kirima,UG41140111,G5317
+747,Kiringente,UG10190103,no_station
+748,Kirugu,UG41310106,no_station
+749,Kiruhura Town Council,UG41190106,no_station
+750,Kirumya,UG41030208,no_station
+751,Kirundo,UG41210105,no_station
+752,Kiryandongo,UG41200104,no_station
+753,Kiryandongo Town Council,UG41200105,no_station
+754,Kiryanga,UG41110106,G5227
+755,Kisekka,UG10150101,no_station
+756,Kisiita,UG41120109,no_station
+757,Kisiita Town Council,UG41120110,no_station
+758,Kisinda,UG20430108,G5075
+759,Kisinga,UG41150106,no_station
+760,Kisinga Town Council,UG41150107,no_station
+761,Kisojo,UG41240111,G5189
+762,Kisoko,UG20630303,G5075
+763,Kisomoro,UG41040107,no_station
+764,Kisozi,UG20440202,no_station
+765,Kisubba,UG41030209,no_station
+766,Kitagata,UG41350105,no_station
+767,Kitagata Town Council,UG41350106,no_station
+768,Kitaihuka,UG41120111,no_station
+769,Kitanda,UG10020105,no_station
+770,Kitawoi,UG20500109,no_station
+771,Kitayunjwa,UG20440105,no_station
+772,Kitenga,UG10200102,no_station
+773,Kitgum Matidi,UG30770101,no_station
+774,Kitholhu,UG41150108,no_station
+775,Kitimbwa,UG10100104,no_station
+776,Kito,UG10220107,G5160
+777,Kitoba,UG41060105,no_station
+778,Kitswamba,UG41150208,no_station
+779,Kitumba,UG41090206,no_station
+780,Kitumbi,UG10090106,no_station
+781,Kituntu,UG10190104,no_station
+782,Kitura,UG41190107,no_station
+783,Kituti,UG20480112,G5075
+784,Kitwe Town Council,UG41290303,no_station
+785,Kityerera,UG20530109,no_station
+786,Kiwoko Town Council,UG10220108,G5160
+787,Kiyanga,UG41270107,no_station
+788,Kiyombya,UG41040108,no_station
+789,Kiyuni,UG10200103,no_station
+790,Kiziba,UG10240107,no_station
+791,Kiziranfumbi,UG41180106,G5227
+792,Kkingo,UG10150102,no_station
+793,Kobulubulu,UG20410105,no_station
+794,Kobwin,UG20580102,no_station
+795,Koch-Goma,UG30920105,no_station
+796,Kochi,UG30990106,no_station
+797,Kole Town Council,UG30790106,no_station
+798,Kolir,UG20320105,no_station
+799,Koome Island,UG10210201,no_station
+800,Koro,UG30940102,no_station
+801,Kortek,UG20330108,no_station
+802,Kotido,UG30800102,G5196
+803,Kotomol,UG30660105,no_station
+804,Kucwiny,UG30910204,no_station
+805,Kuju,UG20270106,G5196
+806,Kuluba,UG30780103,no_station
+807,Kululu,UG30990107,no_station
+808,Kumi,UG20490103,no_station
+809,Kuru,UG30990108,no_station
+810,Kwanyiy,UG20500110,no_station
+811,Kwapa,UG20630101,G5075
+812,Kwera,UG30730109,no_station
+813,Kwosir,UG20500111,no_station
+814,Kyabakara,UG41310107,no_station
+815,Kyabarungira,UG41150209,no_station
+816,Kyabigambire,UG41060106,no_station
+817,Kyabugimbi,UG41050205,no_station
+818,Kyakabadiima,UG41110107,G5227
+819,Kyalulangira,UG10240108,no_station
+820,Kyampisi,UG10210202,no_station
+821,Kyamuhunga,UG41050206,no_station
+822,Kyamuhunga Town Council,UG41050207,no_station
+823,Kyamukube Town Council,UG41040109,no_station
+824,Kyamulibwa,UG10070104,no_station
+825,Kyamulibwa Town Council,UG10070105,no_station
+826,Kyamuswa,UG10060203,no_station
+827,Kyamutunzi Town Council,UG41240112,G5189
+828,Kyanaisoke,UG41110108,G5227
+829,Kyanamira,UG41090207,no_station
+830,Kyanamukaaka,UG10170104,no_station
+831,Kyangwali,UG41180107,G5227
+832,Kyangyenyi,UG41350107,no_station
+833,Kyankwanzi,UG10120116,G5160
+834,Kyankwanzi Town Council,UG10120117,G5160
+835,Kyarumba,UG41150109,no_station
+836,Kyarusozi,UG41240113,G5189
+837,Kyarusozi  Town Council,UG41240114,G5189
+838,Kyaterekera,UG41110109,G5227
+839,Kyazanga,UG10150103,no_station
+840,Kyazanga Town Council,UG10150104,no_station
+841,Kyebando,UG41170107,no_station
+842,Kyegegwa Town Council,UG41230106,no_station
+843,Kyegonza,UG10050103,no_station
+844,Kyeizooba,UG41050208,no_station
+845,Kyembogo,UG41240115,G5189
+846,Kyengera Town Council,UG10260107,G5160
+847,Kyenjojo Town Council,UG41240116,G5189
+848,Kyenzige,UG41110110,G5227
+849,Kyere,UG20600203,no_station
+850,Kyesiiga,UG10170105,no_station
+851,Kyondo,UG41150110,no_station
+852,Labongo Akwang,UG30770102,no_station
+853,Labongo Amida,UG30770103,no_station
+854,Labongo Layamo,UG30770104,no_station
+855,Labori,UG20600106,no_station
+856,Lagoro,UG30770105,no_station
+857,Laguti,UG30970105,no_station
+858,Lake Katwe,UG41150210,no_station
+859,Lakwana,UG30940103,no_station
+860,Lalogi,UG30940104,no_station
+861,Lamiyo,UG30660106,no_station
+862,Lamogi,UG30700104,no_station
+863,Lamwo Town Council,UG30820102,no_station
+864,Lapono,UG30660107,no_station
+865,Lapul,UG30970106,no_station
+866,Laroo Division,UG30740202,no_station
+867,Laropi,UG30870102,no_station
+868,Latanya,UG30970107,no_station
+869,Layibi Division,UG30740203,no_station
+870,Lefori,UG30870103,no_station
+871,Lii,UG30920106,no_station
+872,Lira,UG30830107,no_station
+873,Lira Palwo,UG30660108,no_station
+874,Lobule,UG30780104,no_station
+875,Lodiko,UG30750109,no_station
+876,Lodonga,UG30990109,no_station
+877,Logiri,UG30720403,no_station
+878,Lokole,UG30660109,no_station
+879,Lokopo,UG30900102,G5196
+880,Lokung,UG30820103,no_station
+881,Lolachat,UG30880101,no_station
+882,Lolelia,UG30750110,no_station
+883,Lolwe,UG20550106,G5230
+884,Lopeei,UG30900103,G5196
+885,Loregae,UG30890102,no_station
+886,Lorengecora,UG30900104,G5196
+887,Lorengedwat,UG30880102,no_station
+888,Loro,UG30960107,no_station
+889,Loroo,UG30690104,no_station
+890,Lotim,UG30750111,no_station
+891,Lotome,UG30900105,G5196
+892,Lotukei,UG30640105,G5196
+893,Loyoro,UG30750112,no_station
+894,Lubya,UG10040106,no_station
+895,Ludara,UG30780105,no_station
+896,Lugusulu,UG10250201,no_station
+897,Lukaya Town Council,UG10070106,no_station
+898,Lukhonge,UG20540115,G5220
+899,Lumino,UG20350208,G5230
+900,Lungulu,UG30920107,no_station
+901,Lunyo,UG20350209,G5230
+902,Lusha,UG20340114,no_station
+903,Luuka Town Council,UG20510106,no_station
+904,Luwero,UG10140204,no_station
+905,Luwero Town Council,UG10140205,no_station
+906,Lwabenge,UG10070107,no_station
+907,Lwabiyata,UG10230105,no_station
+908,Lwajje,UG10040107,no_station
+909,Lwakhakha Town Council,UG20560110,G5220
+910,Lwamaggwa,UG10240109,no_station
+911,Lwamata,UG10110107,G5160
+912,Lwamata,UG20480113,G5075
+913,Lwamata Town Council,UG10110108,G5160
+914,Lwampanga,UG10230106,no_station
+915,Lwanda,UG10240110,no_station
+916,Lwasso,UG20540116,G5220
+917,Lwebitakuli,UG10250202,no_station
+918,Lwemiyaga,UG10250101,no_station
+919,Lwengo,UG10150105,no_station
+920,Lwengo Town Council,UG10150106,no_station
+921,Lyabaana,UG10040108,no_station
+922,Lyakajura,UG10160104,no_station
+923,Lyama,UG20280105,G5220
+924,Lyantonde,UG10160105,no_station
+925,Lyantonde Town Council,UG10160106,no_station
+926,Maanyi,UG10180104,G5160
+927,Mabaale,UG41110111,G5227
+928,Mabaale Town Council,UG41110112,G5227
+929,Mabende,UG41100112,no_station
+930,Mabere,UG41030107,no_station
+931,Maddu,UG10050104,no_station
+932,Madi  Opei,UG30820104,no_station
+933,Madudu,UG10200104,no_station
+934,Mafubira,UG20400104,no_station
+935,Magada,UG20570104,G5075
+936,Magale,UG20560111,G5220
+937,Magale Town Council,UG20560112,G5220
+938,Magamaga,UG30640106,G5196
+939,Magamaga Town Council,UG20530110,no_station
+940,Magambo,UG41310108,no_station
+941,Magogo,UG20440203,no_station
+942,Magola,UG20630304,G5075
+943,Magoro,UG20470202,G5196
+944,Mahango,UG41150111,no_station
+945,Majanji,UG20350210,G5230
+946,Makindye Division,UG10080103,no_station
+947,Makokoto,UG10090107,no_station
+948,Makulubita,UG10140206,no_station
+949,Makuutu,UG20310106,no_station
+950,Malaba Town Council,UG20630102,G5075
+951,Malangala,UG10180105,G5160
+952,Malera,UG20320106,no_station
+953,Maliba,UG41150211,no_station
+954,Malongo,UG10150107,no_station
+955,Malongo,UG20530111,no_station
+956,Manafwa Town Council,UG20520113,G5220
+957,Manibe,UG30720304,no_station
+958,Manyogaseka,UG10090108,no_station
+959,Maracha Town Council,UG30850102,no_station
+960,Masaba,UG20350211,G5230
+961,Masaba,UG20610118,no_station
+962,Masafu,UG20350212,G5230
+963,Masajja Division,UG10260502,G5160
+964,Masese Walukuba,UG20400202,no_station
+965,Masha,UG41080208,no_station
+966,Masheruka,UG41350108,no_station
+967,Masheruka Twon Council,UG41350109,no_station
+968,Masiira,UG20340115,no_station
+969,Masindi Port,UG41200106,no_station
+970,Masinya,UG20350213,G5230
+971,Masuliita,UG10260108,G5160
+972,Masulita Town Council,UG10260109,G5160
+973,Matale,UG41170108,no_station
+974,Matany,UG30900106,G5196
+975,Mateete,UG10250203,no_station
+976,Mateete Town Council,UG10250204,no_station
+977,Mayanga,UG41270108,no_station
+978,Mayuge Town Council,UG20530112,no_station
+979,Maziba,UG41090208,no_station
+980,Mazimasa,UG20360110,G5220
+981,Mazinga,UG10060204,no_station
+982,Mazuba,UG20570105,G5075
+983,Mbaare,UG41080105,no_station
+984,Mbulamuti,UG20440204,no_station
+985,Mella,UG20630103,G5075
+986,Mende,UG10260110,G5160
+987,Merikit,UG20630104,G5075
+988,Metu,UG30870104,no_station
+989,Midia,UG30780106,no_station
+990,Midigo,UG30990110,no_station
+991,Migeera Town Council,UG10230107,no_station
+992,Miirya,UG41250202,no_station
+993,Mijwala,UG10250205,no_station
+994,Minakulu,UG30960108,no_station
+995,Mirambi,UG41030210,no_station
+996,Mitooma,UG41270109,no_station
+997,Mitooma Town Council,UG41270110,no_station
+998,Molo,UG20630105,G5075
+999,Moruita,UG30890103,no_station
+1000,Morulem,UG30640107,G5196
+1001,Morungatuny,UG20270107,G5196
+1002,Moyo,UG30870105,no_station
+1003,Moyo Town Council,UG30870106,no_station
+1004,Moyok,UG20500112,no_station
+1005,Mpara,UG41230107,no_station
+1006,Mparo Divison,UG41060204,no_station
+1007,Mparo Twon Council,UG41320104,no_station
+1008,Mpasaana,UG41120112,no_station
+1009,Mpatta,UG10210203,no_station
+1010,Mpeefu,UG41110113,G5227
+1011,Mpenja,UG10050105,no_station
+1012,Mpigi Town Council,UG10190105,no_station
+1013,Mpondwe-Lhubiriha,UG41150112,no_station
+1014,Mpumudde,UG10160107,no_station
+1015,Mpumudde Division,UG20400203,no_station
+1016,Mpunge,UG10210204,no_station
+1017,Mpungu,UG41140112,G5317
+1018,Mpungwe,UG20530113,no_station
+1019,Mucwini,UG30770106,no_station
+1020,Muduuma,UG10190106,no_station
+1021,Mugarama,UG41170109,no_station
+1022,Mugiti,UG20280206,G5220
+1023,Mugoye,UG10060103,no_station
+1024,Mugusu,UG41100113,no_station
+1025,Mugusu Town Council,UG41100114,no_station
+1026,Muhanga Town Council,UG41320105,no_station
+1027,Muhokya,UG41150212,no_station
+1028,Muhorro,UG41110114,G5227
+1029,Muhorro  Town Council,UG41110115,G5227
+1030,Muko,UG41300106,no_station
+1031,Mukongoro,UG20490104,no_station
+1032,Mukoto,UG20560113,G5220
+1033,Mukuju,UG20630106,G5075
+1034,Mukungwe,UG10170106,no_station
+1035,Mukura,UG20580103,no_station
+1036,Mulagi,UG10120118,G5160
+1037,Mulanda,UG20630305,G5075
+1038,Munarya,UG20450210,no_station
+1039,Munkunyu,UG41150113,no_station
+1040,Muntu,UG30680109,no_station
+1041,Muramba,UG41210106,no_station
+1042,Murora,UG41210107,no_station
+1043,Mutara,UG41270111,no_station
+1044,Muterere,UG20300208,G5075
+1045,Mutumba,UG20550107,G5230
+1046,Mutunda,UG41200107,no_station
+1047,Muwanga,UG10110109,G5160
+1048,Muyembe,UG20340116,no_station
+1049,Myanzi,UG10090109,no_station
+1050,Myene,UG30960109,no_station
+1051,Nabbaale,UG10210403,no_station
+1052,Nabbongo,UG20340117,no_station
+1053,Nabilatuk,UG30880103,no_station
+1054,Nabilatuk Town Council,UG30880104,no_station
+1055,Nabingoola,UG10200206,no_station
+1056,Nabiswa,UG20480114,G5075
+1057,Nabisweera,UG10230108,no_station
+1058,Nabitende,UG20390202,no_station
+1059,Naboa,UG20280106,G5220
+1060,Nabukalu,UG20300209,G5075
+1061,Nabumali Town Council,UG20540117,G5220
+1062,Nabuyoga,UG20630306,G5075
+1063,Nabweru Division,UG10260603,G5160
+1064,Nabweya,UG20290114,G5220
+1065,Nabweyo,UG20570106,G5075
+1066,Nabwigulu,UG20440106,no_station
+1067,Nadunget,UG30860102,no_station
+1068,Nagojje,UG10210404,no_station
+1069,Nagongera,UG20630307,G5075
+1070,Nagongera Town Council,UG20630308,G5075
+1071,Nairambi,UG10040109,no_station
+1072,Najja,UG10010103,no_station
+1073,Najjembe Division,UG10010302,no_station
+1074,Nakalama,UG20390203,no_station
+1075,Nakaloke,UG20540118,G5220
+1076,Nakaloke Town Council,UG20540119,G5220
+1077,Nakapelimoru,UG30800103,G5196
+1078,Nakapiripirit Town Council,UG30890104,no_station
+1079,Nakaseke,UG10220109,G5160
+1080,Nakaseke Town Council,UG10220110,G5160
+1081,Nakasongola Town Council,UG10230109,no_station
+1082,Nakatsi,UG20290115,G5220
+1083,Nakawa Division,UG10080104,no_station
+1084,Nakigo,UG20390204,no_station
+1085,Nakisunga,UG10210205,no_station
+1086,Nakitoma,UG10230110,no_station
+1087,Nalondo,UG20520114,G5220
+1088,Nalusala,UG20610119,no_station
+1089,Nalutuntu,UG10090110,no_station
+1090,Nalwanza,UG20290116,G5220
+1091,Nalweyo,UG41120113,no_station
+1092,Nama,UG10210206,no_station
+1093,Namabya,UG20560114,G5220
+1094,Namalemba,UG20310107,no_station
+1095,Namalu,UG30890105,no_station
+1096,Namambasa,UG20540120,G5220
+1097,Namanyonyi,UG20540121,G5220
+1098,Namasagali,UG20440107,no_station
+1099,Namasale,UG30680110,no_station
+1100,Namasale Town Council,UG30680111,no_station
+1101,Namayingo Town Council,UG20550108,G5230
+1102,Namayumba,UG10260111,G5160
+1103,Namayumba Town Council,UG10260112,G5160
+1104,Nambale,UG20390205,no_station
+1105,Nambieso,UG30810106,no_station
+1106,Namboko,UG20560115,G5220
+1107,Namisindwa Town Council,UG20560116,G5220
+1108,Namisuni,UG20340118,no_station
+1109,Namokora,UG30770107,no_station
+1110,Namugongo,UG20430109,G5075
+1111,Namugongo Division,UG10260303,G5160
+1112,Namungalwe,UG20390206,no_station
+1113,Namungo,UG10180305,G5160
+1114,Namutumba,UG20570107,G5075
+1115,Namutumba Town Council,UG20570108,G5075
+1116,Namwendwa,UG20440108,no_station
+1117,Namwiwa,UG20430110,G5075
+1118,Nandere,UG20480115,G5075
+1119,Nangako Town Council,UG20290117,G5220
+1120,Nangonde,UG20570109,G5075
+1121,Nankoma,UG20300210,G5075
+1122,Nankondo,UG20480116,G5075
+1123,Nansana Division,UG10260604,G5160
+1124,Nansanga,UG20280107,G5220
+1125,Nansololo,UG20430111,G5075
+1126,Napak Town Council,UG30900107,G5196
+1127,Nawaikoke,UG20430112,G5075
+1128,Nawampiti,UG20510107,no_station
+1129,Nawandala,UG20390207,no_station
+1130,Nawanjofu,UG20360111,G5220
+1131,Nawanyago,UG20440205,no_station
+1132,Nawanyingi,UG20390208,no_station
+1133,Naweyo,UG20360112,G5220
+1134,Nawuyo Town Council,UG20540122,G5220
+1135,Nazigo,UG10100205,no_station
+1136,Ndagwe,UG10150108,no_station
+1137,Ndaiga,UG41110116,G5227
+1138,Ndejje Division,UG10260503,G5160
+1139,Ndhew,UG30910205,no_station
+1140,Nduguto,UG41030108,no_station
+1141,Nebbi,UG30910206,no_station
+1142,Ngai,UG30960110,no_station
+1143,Ngamba,UG41030109,no_station
+1144,Ngando,UG10030106,no_station
+1145,Ngarama,UG41080106,no_station
+1146,Ngariam,UG20470103,G5196
+1147,Ngenge,UG20500113,no_station
+1148,Ngetta,UG30830108,no_station
+1149,Ngogwe,UG10010104,no_station
+1150,Ngoleriet,UG30900108,G5196
+1151,Ngoma,UG10220111,G5160
+1152,Ngoma,UG41290402,no_station
+1153,Ngoma Town Council,UG10220112,G5160
+1154,Ngora,UG20580104,no_station
+1155,Ngora Town Council,UG20580105,no_station
+1156,Ngwedo,UG41020107,no_station
+1157,Njeru Division,UG10010401,no_station
+1158,Nkandwa,UG10120119,G5160
+1159,Nkokonjeru Town Council,UG10010105,no_station
+1160,Nkoma,UG41130110,no_station
+1161,Nkoma Town Council,UG41130111,no_station
+1162,Nkondo,UG20380106,G5075
+1163,Nkooko,UG41120114,no_station
+1164,Nkozi,UG10190107,no_station
+1165,Nombe,UG41280108,G5189
+1166,North Division,UG30800202,G5196
+1167,Northern,UG41210202,no_station
+1168,Northern Division,UG20390102,no_station
+1169,Northern Division,UG20440301,no_station
+1170,Northern Division,UG20540202,G5220
+1171,Northern Division,UG20620202,no_station
+1172,Northern Division,UG30860201,no_station
+1173,Northern Division,UG41090102,no_station
+1174,Northern Divison,UG20490201,no_station
+1175,Northern Divison,UG30780201,no_station
+1176,Nsambya,UG10120120,G5160
+1177,Nsiika Town Council,UG41010106,no_station
+1178,Nsinze,UG20570110,G5075
+1179,Ntandi Town Council,UG41030110,no_station
+1180,Ntenjeru,UG10210207,no_station
+1181,Ntotoro,UG41030111,no_station
+1182,Ntunda,UG10210405,no_station
+1183,Ntungamo,UG41290304,no_station
+1184,Ntuusi,UG10250102,no_station
+1185,Ntwetwe,UG10120121,G5160
+1186,Ntwetwe  Town Council,UG10120122,G5160
+1187,Nyabihoko,UG41290105,no_station
+1188,Nyabiringo,UG41240117,G5189
+1189,Nyabubare,UG41050209,no_station
+1190,Nyabuharwa,UG41240118,G5189
+1191,Nyabuhikye,UG41070108,no_station
+1192,Nyabwishenya,UG41210108,no_station
+1193,Nyadri,UG30850103,no_station
+1194,Nyahuka Town Council,UG41030211,no_station
+1195,Nyakabande,UG41210109,no_station
+1196,Nyakabirizi Division,UG41050103,no_station
+1197,Nyakagyeme,UG41330105,G5317
+1198,Nyakashashara,UG41190108,no_station
+1199,Nyakatonzi,UG41150114,no_station
+1200,Nyakayojo Division,UG41260107,no_station
+1201,Nyakinama,UG41210110,no_station
+1202,Nyakinoni,UG41140113,G5317
+1203,Nyakishana,UG41010107,no_station
+1204,Nyakishenyi,UG41330205,G5317
+1205,Nyakitunda,UG41080209,no_station
+1206,Nyakiyumbu,UG41150115,no_station
+1207,Nyakwae,UG30640108,G5196
+1208,Nyakyera,UG41290305,no_station
+1209,Nyamarebe,UG41070109,no_station
+1210,Nyamarunda,UG41170110,no_station
+1211,Nyamarwa,UG41170111,no_station
+1212,Nyamirama,UG41140114,G5317
+1213,Nyamitanga Division,UG41260203,no_station
+1214,Nyamunuka Town Council,UG41290106,no_station
+1215,Nyamuyanja,UG41080210,no_station
+1216,Nyamwamba Division,UG41150303,no_station
+1217,Nyamweru,UG41300107,no_station
+1218,Nyanga,UG41140115,G5317
+1219,Nyangahya Division,UG41250304,no_station
+1220,Nyankwanzi,UG41240119,G5189
+1221,Nyantungo,UG41240120,G5189
+1222,Nyapea,UG31000108,no_station
+1223,Nyaravur,UG30910207,no_station
+1224,Nyarubuye,UG41210111,no_station
+1225,Nyarushanje,UG41330206,G5317
+1226,Nyarusiza,UG41210112,no_station
+1227,Nyendo-Ssenyange Division,UG10170203,no_station
+1228,Nyenga Division,UG10010402,no_station
+1229,Nyero,UG20490105,no_station
+1230,Nyimbwa,UG10140207,no_station
+1231,Nyondo,UG20540123,G5220
+1232,Nyundo,UG41210113,no_station
+1233,Obalanga,UG20460105,G5196
+1234,Ochero,UG20410106,no_station
+1235,Odek,UG30940105,no_station
+1236,Odravu,UG30990111,no_station
+1237,Odupi,UG30720305,no_station
+1238,Ofua,UG30650107,no_station
+1239,Ogolai,UG20270108,G5196
+1240,Ogom,UG30970108,no_station
+1241,Ogor,UG30950103,no_station
+1242,Ogur,UG30830109,no_station
+1243,Ogwette,UG30950104,no_station
+1244,Ojwina Division,UG30830203,no_station
+1245,Okungur,UG20460106,G5196
+1246,Okwalongwen,UG30730110,no_station
+1247,Okwang,UG30950105,no_station
+1248,Okwerodot,UG30790107,no_station
+1249,Okwongodul,UG30730111,no_station
+1250,Oleba,UG30850104,no_station
+1251,Olilim,UG30950106,no_station
+1252,Olio,UG20600204,no_station
+1253,Olok,UG20590209,G5075
+1254,Oluffe,UG30850105,no_station
+1255,Oluko,UG30720205,no_station
+1256,Oluvu,UG30850106,no_station
+1257,Omiya Anyima,UG30770108,no_station
+1258,Omiya Pacwa,UG30660110,no_station
+1259,Omodoi,UG20470203,G5196
+1260,Omoro,UG30670109,no_station
+1261,Omoro Town Council,UG30940106,no_station
+1262,Omot,UG30660111,no_station
+1263,Omugo,UG30720306,no_station
+1264,Ongako,UG30940107,no_station
+1265,Ongino,UG20490106,no_station
+1266,Ongongoja,UG20470104,G5196
+1267,Opwateta,UG20590102,G5075
+1268,Orom,UG30770109,no_station
+1269,Orum,UG30950107,no_station
+1270,Orungo,UG20270109,G5196
+1271,Osukuru,UG20630107,G5075
+1272,Otuke Town Council,UG30950108,no_station
+1273,Otwal,UG30960111,no_station
+1274,Oyam Town Council,UG30960112,no_station
+1275,Paacwa,UG41110117,G5227
+1276,Pabo,UG30700105,no_station
+1277,Pacara,UG30650108,no_station
+1278,Pader,UG30970109,no_station
+1279,Pader Town Council,UG30970110,no_station
+1280,Padibe East,UG30820105,no_station
+1281,Padibe Town Council,UG30820106,no_station
+1282,Padibe West,UG30820107,no_station
+1283,Pager Division,UG30770202,no_station
+1284,Paicho,UG30740103,no_station
+1285,Paidha,UG31000109,no_station
+1286,Paidha Town Council,UG31000110,no_station
+1287,Paimol,UG30660112,no_station
+1288,Pajule,UG30970111,no_station
+1289,Pajulu,UG30720206,no_station
+1290,Pakanyi,UG41250103,no_station
+1291,Pakele,UG30650109,no_station
+1292,Pakwach,UG30980102,no_station
+1293,Pakwach Town Council,UG30980103,no_station
+1294,Palabek Gem,UG30820108,no_station
+1295,Palabek Kal,UG30820109,no_station
+1296,Palabek Ogili,UG30820110,no_station
+1297,Palam,UG20470105,G5196
+1298,Palaro,UG30740104,no_station
+1299,Pallisa,UG20590210,G5075
+1300,Pallisa Town Council,UG20590211,G5075
+1301,Paloga,UG30820111,no_station
+1302,Pandwong Division,UG30770203,no_station
+1303,Panyangara,UG30800104,G5196
+1304,Panyango,UG30980104,no_station
+1305,Panyimur,UG30980105,no_station
+1306,Parabongo,UG30660113,no_station
+1307,Parombo,UG30910208,no_station
+1308,Patiko,UG30740105,no_station
+1309,Patongo,UG30660114,no_station
+1310,Patongo Town Council,UG30660115,no_station
+1311,Paya,UG20630309,G5075
+1312,Pece Division,UG30740204,no_station
+1313,Petete,UG20370106,no_station
+1314,Petta,UG20630310,G5075
+1315,Pingire,UG20600107,no_station
+1316,Puranga,UG30970112,no_station
+1317,Purongo,UG30920108,no_station
+1318,Puti-Puti,UG20590212,G5075
+1319,Railway Division,UG30830204,no_station
+1320,Rakai Town Council,UG10240111,no_station
+1321,Rengen,UG30800105,G5196
+1322,River Oli Division,UG30720102,no_station
+1323,Riwo,UG20330109,no_station
+1324,Romogi,UG30990112,no_station
+1325,Rubaare,UG41290403,no_station
+1326,Rubaare Town Council,UG41290404,no_station
+1327,Rubaga Division,UG10080105,no_station
+1328,Rubanda Town Council,UG41300108,no_station
+1329,Rubaya,UG41090209,no_station
+1330,Rubaya,UG41260108,no_station
+1331,Rubindi,UG41260109,no_station
+1332,Rubiriziri Town Council,UG41310109,no_station
+1333,Rubona Town Council,UG41040110,no_station
+1334,Rubongi,UG20630311,G5075
+1335,Ruborogota,UG41080211,no_station
+1336,Rubuguri Town Council,UG41210114,no_station
+1337,Rugaaga,UG41080107,no_station
+1338,Rugarama,UG41290405,no_station
+1339,Rugarama,UG41350110,no_station
+1340,Rugashari,UG41110118,G5227
+1341,Rugendabara,UG41150213,no_station
+1342,Rugyeyo,UG41140116,G5317
+1343,Ruhaama,UG41290306,no_station
+1344,Ruhija,UG41300109,no_station
+1345,Ruhinda,UG41330106,G5317
+1346,Ruhumuro,UG41050210,no_station
+1347,Rukiri,UG41070110,no_station
+1348,Rukoki,UG41150214,no_station
+1349,Rukoni East,UG41290307,no_station
+1350,Rukoni West,UG41290308,no_station
+1351,Rupa,UG30860103,no_station
+1352,Rurehe,UG41270112,no_station
+1353,Rushango Town Council,UG41070111,no_station
+1354,Rushasha,UG41080108,no_station
+1355,Ruteete,UG41100115,no_station
+1356,Ruteete,UG41110119,G5227
+1357,Rutenga,UG41140117,G5317
+1358,Rutoto,UG41310110,no_station
+1359,Ruyonza,UG41230108,no_station
+1360,Rwamucucu,UG41320106,no_station
+1361,Rwanyamahembe,UG41260110,no_station
+1362,Rwashamaire Town Council,UG41290107,no_station
+1363,Rwebisengo,UG41240112,G5189
+1364,Rwebisengo Town Council,UG41280110,G5189
+1365,Rweikiniro,UG41290309,no_station
+1366,Rwengwe,UG41010108,no_station
+1367,Rwenkoba Town Council,UG41070112,no_station
+1368,Rwentuha,UG41230109,no_station
+1369,Rwentuha Town Council,UG41050211,no_station
+1370,Rwerere Town Council,UG41330107,G5317
+1371,Rwimi,UG41040111,no_station
+1372,Rwimi Town Council,UG41040112,no_station
+1373,Ryakirimira Town Council,UG41090210,no_station
+1374,Ryeru,UG41310111,no_station
+1375,Sanga,UG41190109,no_station
+1376,Sanga Town Council,UG41190110,no_station
+1377,Seeta Namuganga,UG10210406,no_station
+1378,Sembabule Town Council,UG10250206,no_station
+1379,Semuto,UG10220113,G5160
+1380,Semuto Town Council,UG10220114,G5160
+1381,Senendet,UG20330110,no_station
+1382,Serere Town Council,UG20600205,no_station
+1383,Sheema Central Division,UG41350204,no_station
+1384,Shuuku Town Council,UG41350111,no_station
+1385,Sibanga,UG20520115,G5220
+1386,Sidok,UG30750113,no_station
+1387,Sigulu Island,UG20550109,G5230
+1388,Sikuda,UG20350214,G5230
+1389,Simu,UG20340119,no_station
+1390,Sindila,UG41030112,no_station
+1391,Sipi,UG20450211,no_station
+1392,Sironko Town Council,UG20610120,no_station
+1393,Sisiyi,UG20340120,no_station
+1394,Sisuni,UG20520116,G5220
+1395,Sop-Sop,UG20630312,G5075
+1396,Soroti,UG20620106,no_station
+1397,South Division,UG30800203,G5196
+1398,Southern,UG41210203,no_station
+1399,Southern Division,UG10200302,no_station
+1400,Southern Division,UG20440302,no_station
+1401,Southern Division,UG20490202,no_station
+1402,Southern Division,UG30780202,no_station
+1403,Southern Division,UG41090103,no_station
+1404,Southern Division,UG41100202,no_station
+1405,Southern Division,UG41330302,G5317
+1406,Southern Divison,UG30860202,no_station
+1407,Ssekanyonyi,UG10180306,G5160
+1408,Ssi-Bukunja,UG10010106,no_station
+1409,Suam,UG20330111,no_station
+1410,Tapac,UG30860104,no_station
+1411,Tara,UG30850107,no_station
+1412,Thatha Division,UG30910103,no_station
+1413,Tirinyi,UG20480117,G5075
+1414,Tokwe,UG41030212,no_station
+1415,Toroma,UG20470204,G5196
+1416,Tsekululu,UG20560117,G5220
+1417,Ttamu Division,UG10180402,G5160
+1418,Tubur,UG20620107,no_station
+1419,Tulel,UG20330112,no_station
+1420,Ukusijoni,UG30650110,no_station
+1421,Unyama,UG30740106,no_station
+1422,Uriama,UG30720307,no_station
+1423,Usuk,UG20470106,G5196
+1424,Vurra,UG30720404,no_station
+1425,Wabinyonyi,UG10230111,no_station
+1426,Wadelai,UG30980106,no_station
+1427,Waibuga,UG20510108,no_station
+1428,Wairasa,UG20530114,no_station
+1429,Wakisi Division,UG10010403,no_station
+1430,Wakiso,UG10260113,G5160
+1431,Wakiso Town Council,UG10260114,G5160
+1432,Wakyato,UG10220115,G5160
+1433,Wanale,UG20540124,G5220
+1434,Wanale Division,UG20540203,G5220
+1435,Wankole,UG20440206,no_station
+1436,Warr,UG31000111,no_station
+1437,Wattuba,UG10120123,G5160
+1438,Wera,UG20270110,G5196
+1439,West Division,UG30800204,G5196
+1440,Western Division,UG10200303,no_station
+1441,Western Division,UG20300102,G5075
+1442,Western Division,UG20350102,G5230
+1443,Western Division,UG20450103,no_station
+1444,Western Division,UG20620203,no_station
+1445,Western Division,UG20630202,G5075
+1446,Western Division,UG30780203,no_station
+1447,Western Division,UG41100203,no_station
+1448,Western Division,UG41290203,no_station
+1449,Western Division,UG41330303,G5317
+1450,Weswa,UG20520117,G5220
+1451,Willa,UG20270111,G5196
+1452,Wobulenzi Town Council,UG10140208,no_station
+1453,Wol,UG30660116,no_station
+1454,Yivu,UG30850108,no_station
+1455,Yumbe Town Council,UG30990113,no_station
+1456,Zesui,UG20610121,no_station
+1457,Zeu,UG31000112,no_station
+1458,Zirobwe,UG10140105,no_station
+1459,Zombo Town Council,UG31000113,no_station

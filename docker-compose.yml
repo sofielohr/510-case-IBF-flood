@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  ibfflood:
+    build:
+      context: .
+    image: ibf-floods-pipeline
+    privileged: true
+    cap_add:
+      - SYS_ADMIN
+    devices:
+      - /dev/fuse
+    ports:
+      - "587:587"
+    env_file:
+      - secrets.env
+    volumes: 
+      - ./pipeline:/home/ibf
+      #- /mnt/containermnt:/home/ibf/data/glofas
+    command: run-flood-model 
